@@ -1,0 +1,143 @@
+
+
+#title {
+  text-align: center;
+  background-color: #fff;
+}
+
+.container {
+  text-align:center;
+  width:20%;
+}
+
+.navbar {
+
+}
+.title-text {
+  text-align:center;
+  padding-top:3%;
+  padding-bottom:7%;
+}
+
+h1 {
+  font-family: "Oswald";
+  font-weight: bold;
+  font-size: 5rem;
+  color: #3B93CC;
+}
+
+.slogan {
+  font-family: "Oswald";
+  font-size: 2rem;
+}
+
+#firstBtn {
+  font-size: 1.8rem;
+  padding:1%;
+  background-color: #6ABC45;
+}
+/* features */
+
+#features {
+  color:#000;
+}
+.box {
+  background-color:#3B93CC;
+  padding:2% 5% 2% 5%;
+}
+
+.feature-box {
+  border-style: solid;
+  border-width:2px;
+  border-color: #00ffff;
+  border-radius: 5%;
+  margin:5%;
+}
+
+.feature-header {
+  color:#fff;
+  font-size: 30px;
+  text-align: center;
+  padding: 5% 0 0 0;
+}
+
+.feature-desc {
+  text-align:center;
+  font-size: 1.5rem;
+  margin-top: 5%;
+  padding: 0 15% 3% 15%
+}
+
+/* Process of Application */
+
+#Process{
+  background-color: #fff;
+  /* padding:0 2% 4% 2%; */
+  display:block;
+}
+
+.process-header {
+  text-align:center;
+  font-family: "Oswald";
+  font-weight: bold;
+  font-size: 3rem;
+  color: #3B93CC;
+}
+
+.Process-row {
+  padding:2% 0 2% 0;
+}
+
+.Process-box {
+  background-color: #3B93CC;
+  border-style: solid;
+  border-color: #3B93CC;
+  border-radius: 50%;
+  justify-content: center;
+  text-align:center;
+  margin:0.5%;
+}
+
+.Process-box-b {
+  margin-left:0;
+}
+
+#secondBtn {
+  font-size: 1.8rem;
+  padding:1%;
+  background-color: #6ABC45;
+  margin-top:20%;
+  margin-bottom:5%;
+}
+
+.box-b {
+  word-wrap:break-word;
+  text-align:center;
+  padding: 8%;
+  box-sizing:block;
+}
+
+/* cta */
+
+#cta  {
+  padding: 5%;
+  background-color:#3B93CC;
+  text-align : center;
+}
+
+.cta-header {
+  font-family: "Oswald";
+  font-weight: bold;
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 5%;
+}
+#footer {
+
+}
+
+.huge {
+  font-size : 10rem;
+  color : blue;
+  font-weight: bold;
+}
